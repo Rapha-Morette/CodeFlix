@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "HTML e CSS do seu jeito",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,41 +10,37 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Por que você deveria programar ?",
+          "url": "https://www.youtube.com/watch?v=mHW1Hsqlp6A"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Curso de HTML5",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "CSS (Cascading Style Sheets) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=229xfk3EEM8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Box-sizing no CSS sem segredos #AluraMais",
+          "url": "https://www.youtube.com/watch?v=Q33ojlocKc0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Como centralizar no CSS? 3 formas, Vertical/Horizontal + Bônus #DicasDeCSS",
+          "url": "https://www.youtube.com/watch?v=Cu-HP-gvggg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Desvendando o CSS Grid na prática | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "🐺 CSS Grid Layout - Curso Completo",
+          "url": "https://www.youtube.com/watch?v=hKXOVD2Yrj8"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "É JavaScript que você quer ?",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -52,24 +48,24 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "JAVASCRIPT EM 6 MINUTOS: Tudo Que Você Precisa saber!",
+          "url": "https://www.youtube.com/watch?v=Fu6p9TidKZc"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "O que é JavaScript? | #HipstersPontoTube ",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Criando Player de Áudio com Javascript | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=vqrjFnq3-uo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O que é Node JS? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=GKR6uSvEj8w"
         }
       ]
     },

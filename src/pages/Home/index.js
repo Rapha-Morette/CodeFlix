@@ -15,7 +15,7 @@ function Home() {
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
       videoDescription={
-        "Aaaaa"
+        "Alguns dos maiores 'devs', explicando para você o mundo mâgico da programação!"
       }
     />
 
